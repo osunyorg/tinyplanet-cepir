@@ -1,0 +1,6 @@
+---
+- title: Actualités
+  target: "/fr/actualites/"
+  kind: page
+  children: []
+
