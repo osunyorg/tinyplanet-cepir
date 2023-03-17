@@ -1,4 +1,6 @@
 ---
+title: Menu principal
+items:
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
