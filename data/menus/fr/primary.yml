@@ -5,4 +5,8 @@ items:
   target: "/fr/actualites/"
   kind: page
   children: []
+- title: Glossaire
+  target: "/fr/glossaire/"
+  kind: page
+  children: []
 
