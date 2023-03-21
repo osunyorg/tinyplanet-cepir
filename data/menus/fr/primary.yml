@@ -1,4 +1,8 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Partenaires
+  target: "/fr/equipe/"
+  kind: page
+  children: []
 
