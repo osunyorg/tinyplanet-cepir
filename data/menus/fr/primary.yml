@@ -5,4 +5,8 @@ items:
   target: "/fr/equipe/"
   kind: page
   children: []
+- title: Publications
+  target: "/fr/publications/"
+  kind: page
+  children: []
 
