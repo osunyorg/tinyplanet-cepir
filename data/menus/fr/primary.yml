@@ -1,8 +1,4 @@
 ---
 title: Menu principal
-items:
-- title: Glossaire
-  target: "/fr/glossaire/"
-  kind: page
-  children: []
+items: []
 
