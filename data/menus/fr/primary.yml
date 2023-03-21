@@ -10,8 +10,8 @@ items:
   kind: page
   children: []
 - title: Contexte
-  target: ''
-  kind: blank
+  target: "/fr/contexte/"
+  kind: page
   children: []
 - title: Relais
   target: ''
