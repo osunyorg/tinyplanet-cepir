@@ -21,4 +21,8 @@ items:
   target: "/fr/glossaire/"
   kind: page
   children: []
+- title: FAQ
+  target: ''
+  kind: blank
+  children: []
 
