@@ -17,6 +17,10 @@ items:
     target: https://tinyplanet-cepir.netlify.app/fr/contexte/
     kind: url
     children: []
+  - title: Enjeux
+    target: https://tinyplanet-cepir.netlify.app/fr/enjeux/
+    kind: url
+    children: []
 - title: Passage de flambeau
   target: "/fr/"
   kind: page
