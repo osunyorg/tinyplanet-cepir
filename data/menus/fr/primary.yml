@@ -21,4 +21,8 @@ items:
   target: "/fr/glossaire/"
   kind: page
   children: []
+- title: Making-off
+  target: https://tinyplanet-cepir.netlify.app/fr/making-off/
+  kind: url
+  children: []
 
