@@ -2,8 +2,8 @@
 title: Menu principal
 items:
 - title: Partenaires
-  target: https://tinyplanet-cepir.netlify.app/fr/partenaires/
-  kind: url
+  target: "/fr/partenaires/"
+  kind: page
   children: []
 - title: Publications
   target: "/fr/publications/"
