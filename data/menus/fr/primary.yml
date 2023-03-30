@@ -42,7 +42,7 @@ items:
     kind: page
     children: []
 - title: Passage de flambeau
-  target: "/fr/"
+  target: "/fr/passage-de-flambeau/"
   kind: page
   children: []
 - title: Foire aux questions
