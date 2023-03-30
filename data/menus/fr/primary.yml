@@ -33,4 +33,8 @@ items:
   target: https://tinyplanet-cepir.netlify.app/fr/making-off/
   kind: url
   children: []
+- title: Etat de l'art
+  target: "/fr/publications/etat-de-lart/"
+  kind: page
+  children: []
 
