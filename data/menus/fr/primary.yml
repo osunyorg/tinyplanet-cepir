@@ -18,8 +18,8 @@ items:
     kind: page
     children: []
   - title: Enjeux
-    target: https://tinyplanet-cepir.netlify.app/fr/enjeux/
-    kind: url
+    target: "/fr/contexte/enjeux/"
+    kind: page
     children: []
 - title: Passage de flambeau
   target: "/fr/"
