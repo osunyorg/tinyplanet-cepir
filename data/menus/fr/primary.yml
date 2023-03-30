@@ -13,8 +13,8 @@ items:
   target: "/fr/contexte/"
   kind: page
   children: []
-- title: Relais
-  target: "/fr/suite-du-projet/"
+- title: Passage de flambeau
+  target: "/fr/"
   kind: page
   children: []
 - title: Glossaire
