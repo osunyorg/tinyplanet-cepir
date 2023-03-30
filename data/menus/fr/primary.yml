@@ -49,4 +49,8 @@ items:
   target: https://tinyplanet-cepir.netlify.app/fr/making-off/
   kind: url
   children: []
+- title: Foire aux questions
+  target: "/fr/faq-1/"
+  kind: page
+  children: []
 
