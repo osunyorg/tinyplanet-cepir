@@ -9,12 +9,12 @@ items:
   target: "/fr/publications/"
   kind: page
   children:
-  - title: Enquête sectorielle
-    target: "/fr/publications/enquete-sectorielle/"
-    kind: page
-    children: []
   - title: Etat de l'art
     target: "/fr/publications/etat-de-lart/"
+    kind: page
+    children: []
+  - title: Enquête sectorielle
+    target: "/fr/publications/enquete-sectorielle/"
     kind: page
     children: []
 - title: Contexte et enjeux
