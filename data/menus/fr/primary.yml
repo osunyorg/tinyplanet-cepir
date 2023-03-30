@@ -9,7 +9,7 @@ items:
   target: "/fr/publications/"
   kind: page
   children: []
-- title: Contexte, risques et opportunités
+- title: Contexte et enjeux
   target: "/fr/contexte/"
   kind: page
   children: []
