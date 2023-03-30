@@ -37,4 +37,8 @@ items:
   target: https://tinyplanet-cepir.netlify.app/fr/making-off/
   kind: url
   children: []
+- title: Enquête sectorielle
+  target: "/fr/publications/enquete-sectorielle/"
+  kind: page
+  children: []
 
