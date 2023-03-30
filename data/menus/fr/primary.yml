@@ -5,6 +5,10 @@ items:
   target: "/fr/partenaires/"
   kind: page
   children: []
+- title: Glossaire
+  target: "/fr/publications/glossaire-1/"
+  kind: page
+  children: []
 - title: Publications
   target: "/fr/publications/"
   kind: page
@@ -40,9 +44,5 @@ items:
 - title: Making-off
   target: https://tinyplanet-cepir.netlify.app/fr/making-off/
   kind: url
-  children: []
-- title: Glossaire
-  target: "/fr/publications/glossaire-1/"
-  kind: page
   children: []
 
