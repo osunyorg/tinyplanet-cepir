@@ -25,6 +25,10 @@ items:
     target: "/fr/publications/evaluation-environnementale-et-prospective/"
     kind: page
     children: []
+  - title: Bonnes pratiques
+    target: "/fr/publications/bonnes-pratiques/"
+    kind: page
+    children: []
 - title: Contexte et enjeux
   target: "/fr/contexte/"
   kind: page
@@ -44,9 +48,5 @@ items:
 - title: Making-off
   target: https://tinyplanet-cepir.netlify.app/fr/making-off/
   kind: url
-  children: []
-- title: Bonnes pratiques
-  target: "/fr/publications/bonnes-pratiques/"
-  kind: page
   children: []
 
