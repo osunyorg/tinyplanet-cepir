@@ -8,7 +8,11 @@ items:
 - title: Publications
   target: "/fr/publications/"
   kind: page
-  children: []
+  children:
+  - title: Etat de l'art
+    target: "/fr/publications/etat-de-lart/"
+    kind: page
+    children: []
 - title: Contexte et enjeux
   target: "/fr/contexte/"
   kind: page
@@ -32,9 +36,5 @@ items:
 - title: Making-off
   target: https://tinyplanet-cepir.netlify.app/fr/making-off/
   kind: url
-  children: []
-- title: Etat de l'art
-  target: "/fr/publications/etat-de-lart/"
-  kind: page
   children: []
 
