@@ -45,4 +45,8 @@ items:
   target: https://tinyplanet-cepir.netlify.app/fr/making-off/
   kind: url
   children: []
+- title: Bonnes pratiques
+  target: "/fr/publications/bonnes-pratiques/"
+  kind: page
+  children: []
 
