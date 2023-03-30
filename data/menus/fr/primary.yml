@@ -21,6 +21,10 @@ items:
     target: "/fr/publications/glossaire-1/"
     kind: page
     children: []
+  - title: Évaluation environnementale et prospective
+    target: "/fr/publications/evaluation-environnementale-et-prospective/"
+    kind: page
+    children: []
 - title: Contexte et enjeux
   target: "/fr/contexte/"
   kind: page
@@ -40,9 +44,5 @@ items:
 - title: Making-off
   target: https://tinyplanet-cepir.netlify.app/fr/making-off/
   kind: url
-  children: []
-- title: Évaluation environnementale et prospective
-  target: "/fr/publications/evaluation-environnementale-et-prospective/"
-  kind: page
   children: []
 
