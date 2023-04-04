@@ -45,7 +45,7 @@ items:
   target: "/fr/passage-de-flambeau/"
   kind: page
   children: []
-- title: Foire aux questions
+- title: FAQ
   target: "/fr/faq-1/"
   kind: page
   children: []
