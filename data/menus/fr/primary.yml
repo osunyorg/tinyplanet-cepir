@@ -41,7 +41,7 @@ items:
     target: "/fr/contexte/enjeux/"
     kind: page
     children: []
-- title: Passage de flambeau
+- title: L'après
   target: "/fr/passage-de-flambeau/"
   kind: page
   children: []
