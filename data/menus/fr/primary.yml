@@ -29,7 +29,7 @@ items:
     target: "/fr/publications/bonnes-pratiques/"
     kind: page
     children: []
-- title: Contexte et enjeux
+- title: Contexte
   target: "/fr/contexte/"
   kind: page
   children:
