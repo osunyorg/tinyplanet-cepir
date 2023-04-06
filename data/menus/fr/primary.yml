@@ -50,7 +50,7 @@ items:
   kind: page
   children: []
 - title: Making-of
-  target: "/fr/making-off/"
+  target: "/fr/making-of/"
   kind: page
   children: []
 
