@@ -3,12 +3,29 @@
     text-decoration: none !important
     span
         @include small
+        font-family: $heading-font-family
 
-header
+header#document-header
+    border-bottom-color: $color-accent
     .logo
         align-items: center
         display: flex
         gap: $spacing0
+
+    .nav-level-1
+        li:last-child
+            background: $color-accent
+            border-radius: 4px
+            a
+                color: white
+                padding-right: $spacing0
+                &:hover
+                    text-decoration-color: white
+                @include icon(arrow-right)
+                    font-size: 1.5em
+                    padding-right: 0.5rem
+
+.hero
     h1 + p
         @include lead
 
@@ -16,6 +33,9 @@ footer
     .logo
         span
             display: block
+    .footer
+        &-site, &-social, &-legals, &-credit
+            font-family: $body-font-family
 
 .hero
     @include media-breakpoint-up(desktop)
@@ -24,6 +44,20 @@ footer
                 width: auto !important
 
 // BLOCKS
+
+.block
+    &:not(.block-call_to_action)
+        @include media-breakpoint-up(desktop)
+            @include in-page-without-sidebar
+                h2
+                    @include h2
+.block-features
+    li
+        picture.is-svg
+            display: block
+            aspect-ratio: 1.5/1
+            width: 100%
+
 .block-partners
     article
         .media
@@ -36,14 +70,16 @@ footer
         dt
             color: $color-accent
 
-.block-chapter
-    &:not(.block-chapter--with-image)
-        .chapter .text
-            width: auto !important
+// .block-chapter
+//     &:not(.block-chapter--with-image)
+//         .chapter .text
+//             width: auto !important
 
-.block
-    &:not(.block-call_to_action)
-        @include media-breakpoint-up(desktop)
-            @include in-page-without-sidebar
-                h2
-                    @include h2
+// SECTIONS
+
+.page__home
+    .hero
+        h1
+            font-size: px2rem(110)
+
+

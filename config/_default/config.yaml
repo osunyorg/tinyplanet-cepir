@@ -9,5 +9,5 @@ params:
     index:
       layout: grid
   logo:
-    line: Cas d’Etude Pour un Immersif Responsable
+    line: CEPIR
     footer: "/assets/images/logo-white.svg"
