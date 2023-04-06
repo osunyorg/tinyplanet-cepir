@@ -49,8 +49,8 @@ items:
   target: "/fr/faq-1/"
   kind: page
   children: []
-- title: Making-off
-  target: https://tinyplanet-cepir.netlify.app/fr/making-off/
-  kind: url
+- title: Making-of
+  target: "/fr/making-off/"
+  kind: page
   children: []
 
