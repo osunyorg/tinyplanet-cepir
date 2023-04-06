@@ -14,9 +14,9 @@ header#document-header
 
     .nav-level-1
         li:last-child
-            background: $color-accent
-            border-radius: 4px
             a
+                background: $color-accent
+                border-radius: 4px
                 color: white
                 padding-right: $spacing0
                 &:hover
@@ -24,6 +24,13 @@ header#document-header
                 @include icon(arrow-right)
                     font-size: 1.5em
                     padding-right: 0.5rem
+            @include media-breakpoint-up(desktop)
+                margin-left: $spacing0
+            @include media-breakpoint-down(desktop)
+                display: flex
+                padding: $spacing0 0
+                a
+                    padding: $spacing0
 
 .hero
     h1 + p
@@ -33,9 +40,6 @@ footer
     .logo
         span
             display: block
-    .footer
-        &-site, &-social, &-legals, &-credit
-            font-family: $body-font-family
 
 .hero
     @include media-breakpoint-up(desktop)
@@ -78,8 +82,9 @@ footer
 // SECTIONS
 
 .page__home
-    .hero
-        h1
-            font-size: px2rem(110)
+    @include media-breakpoint-up(desktop)
+        .hero
+            h1
+                font-size: px2rem(110)
 
 
