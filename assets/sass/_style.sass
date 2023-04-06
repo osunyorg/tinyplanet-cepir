@@ -17,8 +17,33 @@ footer
         span
             display: block
 
+.hero
+    @include media-breakpoint-up(desktop)
+        .content
+            > h1, > hgroup
+                width: auto !important
+
 // BLOCKS
+.block-partners
+    article
+        .media
+            padding-left: 0
+            img
+                margin-left: 0
+
 .block-key_figures
     dl
         dt
             color: $color-accent
+
+.block-chapter
+    &:not(.block-chapter--with-image)
+        .chapter .text
+            width: auto !important
+
+.block
+    &:not(.block-call_to_action)
+        @include media-breakpoint-up(desktop)
+            @include in-page-without-sidebar
+                h2
+                    @include h2
