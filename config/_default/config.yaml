@@ -11,3 +11,4 @@ params:
   logo:
     line: CEPIR
     footer: "/assets/images/logo-white.svg"
+    footer_line: Cas d’Étude Pour un Immersif Responsable
