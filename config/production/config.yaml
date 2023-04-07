@@ -4,4 +4,4 @@ baseURL: https://tinyplanet-cepir.netlify.app
 
 ## LANGUAGE
 defaultContentLanguage: fr
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false

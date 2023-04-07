@@ -2,55 +2,55 @@
 title: Menu principal
 items:
 - title: Partenaires
-  target: "/fr/partenaires/"
+  target: "/partenaires/"
   kind: page
   children: []
 - title: Publications
-  target: "/fr/publications/"
+  target: "/publications/"
   kind: page
   children:
   - title: Etat de l'art
-    target: "/fr/publications/etat-de-lart/"
+    target: "/publications/etat-de-lart/"
     kind: page
     children: []
   - title: Enquête sectorielle
-    target: "/fr/publications/enquete-sectorielle/"
+    target: "/publications/enquete-sectorielle/"
     kind: page
     children: []
   - title: Glossaire
-    target: "/fr/publications/glossaire-1/"
+    target: "/publications/glossaire-1/"
     kind: page
     children: []
   - title: Évaluation environnementale et prospective
-    target: "/fr/publications/evaluation-environnementale-et-prospective/"
+    target: "/publications/evaluation-environnementale-et-prospective/"
     kind: page
     children: []
   - title: Bonnes pratiques
-    target: "/fr/publications/bonnes-pratiques/"
+    target: "/publications/bonnes-pratiques/"
     kind: page
     children: []
 - title: Contexte
-  target: "/fr/contexte/"
+  target: "/contexte/"
   kind: page
   children:
   - title: Contexte
-    target: "/fr/contexte/contexte-risques-et-opportunites/"
+    target: "/contexte/contexte-risques-et-opportunites/"
     kind: page
     children: []
   - title: Enjeux
-    target: "/fr/contexte/enjeux/"
+    target: "/contexte/enjeux/"
     kind: page
     children: []
 - title: L'après
-  target: "/fr/passage-de-flambeau/"
+  target: "/passage-de-flambeau/"
   kind: page
   children: []
 - title: FAQ
-  target: "/fr/faq-1/"
+  target: "/faq-1/"
   kind: page
   children: []
 - title: Making-of
-  target: "/fr/making-of/"
+  target: "/making-of/"
   kind: page
   children: []
 
