@@ -34,14 +34,23 @@ header#document-header
         a,
         span
             @include meta
+
 .hero
     h1 + p
         @include lead
 
-footer
+footer#document-footer
     .logo
         span
             display: block
+    @include media-breakpoint-up(desktop)
+        .container
+            align-items: end
+            .footer-social
+                order: -1
+                text-align: left
+            .footer-legals
+                text-align: right
 
 .hero
     @include media-breakpoint-up(desktop)
