@@ -34,7 +34,7 @@ items:
   kind: page
   children:
   - title: Contexte
-    target: "/contexte/contexte-1/"
+    target: "/contexte/risques-et-opportunites/"
     kind: page
     children: []
   - title: Enjeux
