@@ -53,4 +53,8 @@ items:
   target: "/making-of/"
   kind: page
   children: []
+- title: Etat de l'art
+  target: "/volumes/2023-etat-de-lart/"
+  kind: volume
+  children: []
 
