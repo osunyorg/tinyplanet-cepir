@@ -4,7 +4,7 @@ enableRobotsTXT: true
 removePathAccents: true
 params:
   breadcrumb:
-    position: after-hero
+    position: hero-start
   posts:
     index:
       layout: grid
