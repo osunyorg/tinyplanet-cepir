@@ -18,19 +18,19 @@ items:
     kind: page
     children: []
 - title: Publications
-  target: "/papiers/"
+  target: "/publications/"
   kind: page
   children:
   - title: Etat de l'art
-    target: "/papiers/2023-04-24-etat-de-lart/"
+    target: "/publications/2023-04-24-etat-de-lart/"
     kind: paper
     children: []
   - title: Enquête sectorielle
-    target: "/papiers/2022-10-25-enquete-sectorielle/"
+    target: "/publications/2022-10-25-enquete-sectorielle/"
     kind: paper
     children: []
   - title: Glossaire
-    target: "/papiers/glossaire-1/"
+    target: "/publications/glossaire-1/"
     kind: page
     children: []
 - title: L'après
