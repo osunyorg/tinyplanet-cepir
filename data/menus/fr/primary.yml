@@ -9,10 +9,6 @@ items:
   target: "/publications/"
   kind: page
   children:
-  - title: Etat de l'art
-    target: "/papiers/2023-04-24-etat-de-lart/"
-    kind: paper
-    children: []
   - title: Enquête sectorielle
     target: "/publications/enquete-sectorielle/"
     kind: page
