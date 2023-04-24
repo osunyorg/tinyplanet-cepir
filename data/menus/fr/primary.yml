@@ -29,6 +29,10 @@ items:
     target: "/papiers/2022-10-25-enquete-sectorielle/"
     kind: paper
     children: []
+  - title: Glossaire
+    target: "/papiers/glossaire-1/"
+    kind: page
+    children: []
 - title: L'après
   target: "/passage-de-flambeau/"
   kind: page
