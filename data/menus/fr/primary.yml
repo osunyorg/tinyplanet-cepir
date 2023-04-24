@@ -17,6 +17,10 @@ items:
     target: "/contexte/enjeux/"
     kind: page
     children: []
+- title: Publications
+  target: "/papiers/"
+  kind: page
+  children: []
 - title: L'après
   target: "/passage-de-flambeau/"
   kind: page
@@ -27,10 +31,6 @@ items:
   children: []
 - title: Making-of
   target: "/making-of/"
-  kind: page
-  children: []
-- title: Publications
-  target: "/papiers/"
   kind: page
   children: []
 
