@@ -33,7 +33,7 @@ items:
   target: "/contexte/"
   kind: page
   children:
-  - title: Contexte
+  - title: Risques et opportunités
     target: "/contexte/risques-et-opportunites/"
     kind: page
     children: []
