@@ -13,10 +13,6 @@ items:
     target: "/volumes/2023-etat-de-lart/"
     kind: volume
     children: []
-  - title: Etat de l'art
-    target: "/publications/etat-de-lart/"
-    kind: page
-    children: []
   - title: Enquête sectorielle
     target: "/publications/enquete-sectorielle/"
     kind: page
