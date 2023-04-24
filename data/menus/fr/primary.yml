@@ -10,6 +10,10 @@ items:
   kind: page
   children:
   - title: Etat de l'art
+    target: "/volumes/2023-etat-de-lart/"
+    kind: volume
+    children: []
+  - title: Etat de l'art
     target: "/publications/etat-de-lart/"
     kind: page
     children: []
@@ -52,9 +56,5 @@ items:
 - title: Making-of
   target: "/making-of/"
   kind: page
-  children: []
-- title: Etat de l'art
-  target: "/volumes/2023-etat-de-lart/"
-  kind: volume
   children: []
 
