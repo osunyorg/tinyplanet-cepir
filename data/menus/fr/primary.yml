@@ -10,8 +10,8 @@ items:
   kind: page
   children:
   - title: Etat de l'art
-    target: "/volumes/2023-etat-de-lart/"
-    kind: volume
+    target: "/papiers/2023-04-24-etat-de-lart/"
+    kind: paper
     children: []
   - title: Enquête sectorielle
     target: "/publications/enquete-sectorielle/"
