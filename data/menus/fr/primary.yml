@@ -5,26 +5,6 @@ items:
   target: "/partenaires/"
   kind: page
   children: []
-- title: Publications
-  target: "/publications/"
-  kind: page
-  children:
-  - title: Enquête sectorielle
-    target: "/publications/enquete-sectorielle/"
-    kind: page
-    children: []
-  - title: Glossaire
-    target: "/publications/glossaire-1/"
-    kind: page
-    children: []
-  - title: Évaluation environnementale et prospective
-    target: "/publications/evaluation-environnementale-et-prospective/"
-    kind: page
-    children: []
-  - title: Bonnes pratiques
-    target: "/publications/bonnes-pratiques/"
-    kind: page
-    children: []
 - title: Contexte
   target: "/contexte/"
   kind: page
