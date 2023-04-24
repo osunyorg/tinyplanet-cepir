@@ -25,6 +25,10 @@ items:
     target: "/papiers/2023-04-24-etat-de-lart/"
     kind: paper
     children: []
+  - title: Enquête sectorielle
+    target: "/papiers/2022-10-25-enquete-sectorielle/"
+    kind: paper
+    children: []
 - title: L'après
   target: "/passage-de-flambeau/"
   kind: page
