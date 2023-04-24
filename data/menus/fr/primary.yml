@@ -29,4 +29,8 @@ items:
   target: "/making-of/"
   kind: page
   children: []
+- title: Publications
+  target: "/papiers/"
+  kind: page
+  children: []
 
