@@ -20,7 +20,11 @@ items:
 - title: Publications
   target: "/papiers/"
   kind: page
-  children: []
+  children:
+  - title: Etat de l'art
+    target: "/papiers/2023-04-24-etat-de-lart/"
+    kind: paper
+    children: []
 - title: L'après
   target: "/passage-de-flambeau/"
   kind: page
