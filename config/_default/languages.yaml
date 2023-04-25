@@ -6,6 +6,6 @@ fr:
   languageCode: fr
   languageName: Français
   permalinks:
-    papers: /papiers/:year-:month-:day-:slug/
+    papers: /publications/:year-:month-:day-:slug/
     volumes: /volumes/:year-:slug/
     organizations: /organisations/:slug/
