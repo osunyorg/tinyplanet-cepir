@@ -1,18 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Contexte
-  target: "/contexte/"
-  kind: page
-  children:
-  - title: Risques et opportunités
-    target: "/contexte/risques-et-opportunites/"
-    kind: page
-    children: []
-  - title: Enjeux
-    target: "/contexte/enjeux/"
-    kind: page
-    children: []
 - title: L'après
   target: "/passage-de-flambeau/"
   kind: page
