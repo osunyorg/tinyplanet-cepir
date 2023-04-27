@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: L'après
-  target: "/passage-de-flambeau/"
-  kind: page
-  children: []
 - title: FAQ
   target: "/faq-1/"
   kind: page
