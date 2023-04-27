@@ -9,8 +9,4 @@ items:
   target: "/faq-1/"
   kind: page
   children: []
-- title: Making-of
-  target: "/making-of/"
-  kind: page
-  children: []
 
