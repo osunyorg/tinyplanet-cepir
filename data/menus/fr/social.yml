@@ -13,4 +13,11 @@ items:
   target: ''
   kind: blank
   children: []
+- title: 'Vous avez une question, vous souhaitez partager une revue critique de nos
+    travaux, interviewer ou inviter l’un.e de nos expert.e.s à donner une conférence,
+    … mais vous ne savez pas qui contacter précisément ? Vous pouvez nous contacter
+    à l’adresse suivante : contact@cepir.info'
+  target: ''
+  kind: blank
+  children: []
 
