@@ -5,4 +5,8 @@ items:
   target: https://www.linkedin.com/company/cepir/
   kind: url
   children: []
+- title: 'CEPIR -  Cas d''Étude pour un Immersif Responsable '
+  target: https://www.cepir.info/
+  kind: url
+  children: []
 
