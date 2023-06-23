@@ -5,6 +5,8 @@ removePathAccents: true
 params:
   breadcrumb:
     position: hero-start
+  summary:
+    position: hero
   posts:
     index:
       layout: grid
