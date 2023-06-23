@@ -9,4 +9,8 @@ items:
   target: https://www.cepir.info/
   kind: url
   children: []
+- title: Mis à jour le 23 Juin 2023 - Copyright CEPIR 2023
+  target: ''
+  kind: blank
+  children: []
 
