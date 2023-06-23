@@ -1,4 +1,8 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: FAQ
+  target: "/faq-1/"
+  kind: page
+  children: []
 
