@@ -1,8 +1,48 @@
 ---
 title: Menu principal
 items:
+- title: Qui sommes-nous ?
+  target: "/partenaires/"
+  kind: page
+  children: []
+- title: Contexte
+  target: "/contexte/"
+  kind: page
+  children:
+  - title: Risques et opportunités
+    target: "/contexte/risques-et-opportunites/"
+    kind: page
+    children: []
+  - title: Enjeux
+    target: "/contexte/enjeux/"
+    kind: page
+    children: []
+- title: Publications
+  target: "/publications/"
+  kind: page
+  children:
+  - title: Etat de l'art
+    target: "/publications/2023-04-23-etat-de-lart/"
+    kind: paper
+    children: []
+  - title: Enquête sectorielle
+    target: "/publications/2022-10-25-enquete-sectorielle/"
+    kind: paper
+    children: []
+  - title: Glossaire
+    target: "/publications/glossaire-1/"
+    kind: page
+    children: []
+- title: L'après
+  target: "/passage-de-flambeau/"
+  kind: page
+  children: []
 - title: FAQ
   target: "/faq-1/"
+  kind: page
+  children: []
+- title: Making-of
+  target: "/making-of/"
   kind: page
   children: []
 
