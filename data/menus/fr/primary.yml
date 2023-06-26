@@ -1,4 +1,8 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Qui sommes nous
+  target: "/partenaires/"
+  kind: page
+  children: []
 
