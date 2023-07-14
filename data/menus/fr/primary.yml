@@ -5,4 +5,8 @@ items:
   target: "/partenaires/"
   kind: page
   children: []
+- title: Webinaire Juin 2023
+  target: ''
+  kind: blank
+  children: []
 
