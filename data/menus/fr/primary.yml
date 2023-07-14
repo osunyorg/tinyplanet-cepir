@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Webinaire Juin 2023
-  target: ''
-  kind: blank
+  target: "/webinaire-juin-2023/"
+  kind: page
   children: []
 
