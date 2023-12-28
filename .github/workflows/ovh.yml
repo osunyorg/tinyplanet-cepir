@@ -1,4 +1,4 @@
-name: OVH
+name: ovh
 
 on:
   push:
