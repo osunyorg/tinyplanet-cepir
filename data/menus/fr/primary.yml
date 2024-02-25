@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Livrables
+  target: ''
+  kind: blank
+  children: []
 - title: Webinaire Juin 2023
   target: "/webinaire-juin-2023/"
   kind: page
@@ -8,9 +12,5 @@ items:
 - title: Qui sommes-nous ?
   target: "/partenaires/"
   kind: page
-  children: []
-- title: Livrables
-  target: ''
-  kind: blank
   children: []
 
