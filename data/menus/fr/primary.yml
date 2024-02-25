@@ -9,4 +9,8 @@ items:
   target: "/partenaires/"
   kind: page
   children: []
+- title: Livrables
+  target: ''
+  kind: blank
+  children: []
 
