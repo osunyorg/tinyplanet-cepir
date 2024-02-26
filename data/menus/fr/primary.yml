@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Livrables
+  target: "/publications/"
+  kind: page
+  children: []
 - title: Webinaire Juin 2023
   target: "/webinaire-juin-2023/"
   kind: page
