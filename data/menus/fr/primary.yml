@@ -17,7 +17,7 @@ items:
   target: "/webinaires/"
   kind: page
   children: []
-- title: Retrospective (film CEPIR)
+- title: Le film (bientôt en ligne)
   target: ''
   kind: blank
   children: []
