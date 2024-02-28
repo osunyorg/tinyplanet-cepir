@@ -17,10 +17,6 @@ items:
   target: ''
   kind: blank
   children: []
-- title: FAQ (à venir)
-  target: ''
-  kind: blank
-  children: []
 - title: Webinaires
   target: "/webinaire-juin-2023/"
   kind: page
