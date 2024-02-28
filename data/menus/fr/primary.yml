@@ -18,7 +18,7 @@ items:
   kind: blank
   children: []
 - title: Webinaires
-  target: "/webinaire-juin-2023/"
+  target: "/webinaires/"
   kind: page
   children: []
 - title: Retrospective (film CEPIR)
