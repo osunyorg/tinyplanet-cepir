@@ -1,16 +1,24 @@
 ---
 title: Menu principal
 items:
+- title: Qui sommes-nous ?
+  target: "/partenaires/"
+  kind: page
+  children: []
+- title: Contexte et enjeux (à venir)
+  target: ''
+  kind: blank
+  children: []
 - title: Livrables
   target: "/publications/"
   kind: page
   children: []
-- title: Webinaire Juin 2023
-  target: "/webinaire-juin-2023/"
-  kind: page
+- title: 'Passage de flambeau '
+  target: ''
+  kind: blank
   children: []
-- title: Qui sommes-nous ?
-  target: "/partenaires/"
+- title: Webinaires
+  target: "/webinaire-juin-2023/"
   kind: page
   children: []
 
