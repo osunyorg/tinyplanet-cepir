@@ -1,7 +1,7 @@
 // DESIGN SYSTEM
 .logo
     text-decoration: none !important
-    gap: $spacing0
+    gap: $spacing-2
     span
         @include small
         font-family: $heading-font-family
@@ -11,26 +11,26 @@ header#document-header
     .logo
         align-items: center
         display: flex
-        gap: $spacing0
+        gap: $spacing-2
     .nav-level-1
         > li:last-child
             > a
                 background: $color-accent
                 border-radius: 4px
                 color: white
-                padding-right: $spacing0
+                padding-right: $spacing-2
                 &:hover
                     text-decoration-color: white
                 @include icon(arrow-right)
                     font-size: 1.5em
                     padding-right: 0.5rem
             @include media-breakpoint-up(desktop)
-                margin-left: $spacing0
+                margin-left: $spacing-2
             @include media-breakpoint-down(desktop)
                 display: flex
-                padding: $spacing0 0
+                padding: $spacing-2 0
                 > a
-                    padding: $spacing0
+                    padding: $spacing-2
 
     .nav-level-2, .nav-level-3
         a,
@@ -57,7 +57,7 @@ footer#document-footer
 .hero
     @include media-breakpoint-up(desktop)
         .content
-            > h1, > hgroup
+            .hero-text
                 width: auto !important
 
 // BLOCKS
@@ -110,7 +110,7 @@ footer#document-footer
     @include media-breakpoint-up(desktop)
         .hero
             h1
-                font-size: px2rem(110)
+                font-size: pxToRem(110)
 
 .persons__section
     .persons--list, .taxonomies-persons
