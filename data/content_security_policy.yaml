@@ -8,3 +8,4 @@ allowed_domains:
   - "vimeo.com"
   - "player.vimeo.com"
   - "vumbnail.com"
+  - "drive.google.com"
