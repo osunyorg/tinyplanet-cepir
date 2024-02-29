@@ -17,7 +17,7 @@ items:
   target: "/webinaires/"
   kind: page
   children: []
-- title: Le film (bientôt en ligne)
+- title: Le film CEPIR
   target: "/making-of/"
   kind: page
   children: []
