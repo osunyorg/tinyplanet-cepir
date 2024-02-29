@@ -10,7 +10,7 @@ items:
   kind: blank
   children: []
 - title: Livrables
-  target: "/publications/"
+  target: "/livrables-cepir/"
   kind: page
   children: []
 - title: Webinaires
