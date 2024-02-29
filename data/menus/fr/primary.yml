@@ -17,10 +17,6 @@ items:
   target: "/webinaires/"
   kind: page
   children: []
-- title: t
-  target: "/livrables-test/"
-  kind: page
-  children: []
 - title: Le film CEPIR
   target: "/making-of/"
   kind: page
