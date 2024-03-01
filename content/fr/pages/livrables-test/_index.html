@@ -228,12 +228,29 @@ contents:
       
     ranks:
       self: false
+      children: 2
     data:
       show_main_description: false
       show_descriptions: false
-      show_images: false
+      show_images: true
       layout: grid
       pages:
+        - path: "/organisations/"
+          slug: "organisations"
+          file: "organizations/_index.html"
+          external: false
+        - path: "/making-of/"
+          slug: "making-of"
+          file: "pages/making-of/_index.html"
+          external: false
+        - path: "/partenaires/"
+          slug: "partenaires"
+          file: "persons/_index.html"
+          external: false
+        - path: "/webinaires/"
+          slug: "webinaires"
+          file: "pages/webinaires/_index.html"
+          external: false
 
 
 
