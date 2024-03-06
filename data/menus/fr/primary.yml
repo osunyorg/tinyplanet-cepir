@@ -9,6 +9,10 @@ items:
   target: ''
   kind: blank
   children: []
+- title: CEPIR en 1 image
+  target: ''
+  kind: blank
+  children: []
 - title: Livrables
   target: "/livrables-test/"
   kind: page
@@ -20,9 +24,5 @@ items:
 - title: Le film CEPIR
   target: "/making-of/"
   kind: page
-  children: []
-- title: CEPIR en 1 image
-  target: ''
-  kind: blank
   children: []
 
