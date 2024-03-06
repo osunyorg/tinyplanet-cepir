@@ -21,4 +21,8 @@ items:
   target: "/making-of/"
   kind: page
   children: []
+- title: CEPIR en 1 image
+  target: ''
+  kind: blank
+  children: []
 
