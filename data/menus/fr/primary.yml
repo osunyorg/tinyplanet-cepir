@@ -5,10 +5,6 @@ items:
   target: "/partenaires/"
   kind: page
   children: []
-- title: Contexte et enjeux (à venir)
-  target: ''
-  kind: blank
-  children: []
 - title: CEPIR en 1 image
   target: "/mindmap-cepir/"
   kind: page
