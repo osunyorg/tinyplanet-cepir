@@ -1,14 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Qui sommes-nous ?
-  target: "/partenaires/"
-  kind: page
-  children: []
-- title: CEPIR en 1 image
-  target: "/mindmap-cepir/"
-  kind: page
-  children: []
 - title: Livrables
   target: "/livrables-cepir-1/"
   kind: page
