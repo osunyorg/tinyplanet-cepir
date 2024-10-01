@@ -9,6 +9,8 @@ fr:
   params:
     social:
   permalinks:
+    posts: /accessibilite/actualites/:year-:month-:day-:slug/
+    posts_categories: /accessibilite/actualites/:slug/
     papers: /publications/:year-:month-:day-:slug/
     volumes: /volumes/:year-:slug/
     organizations: /organisations/:slug/
