@@ -5,12 +5,15 @@ items:
   target: "/livrables-cepir-1/"
   kind: page
   children: []
+  file: content/fr/pages/livrables-cepir-1/_index.html
 - title: Webinaires
   target: "/webinaires/"
   kind: page
   children: []
+  file: content/fr/pages/webinaires/_index.html
 - title: Le film CEPIR
   target: "/making-of/"
   kind: page
   children: []
+  file: content/fr/pages/making-of/_index.html
 
