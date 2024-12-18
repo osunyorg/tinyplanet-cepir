@@ -4,9 +4,11 @@ items:
 - title: LinkedIn
   target: https://www.linkedin.com/company/cepir/
   kind: url
+  new_tab: true
   children: []
 - title: Mis à jour le 04 Avril 2024 - © CEPIR 2024
   target: ''
   kind: blank
+  new_tab: false
   children: []
 
