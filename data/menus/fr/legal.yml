@@ -2,7 +2,7 @@
 title: Informations légales
 items:
 - title: Mentions légales
-  target: "/mentions-legales/"
+  target: "/fr/mentions-legales/"
   kind: page
   new_tab: false
   children: []
