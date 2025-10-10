@@ -1,6 +1,13 @@
 ---
 title: Menu principal
 items:
+- title: Qui sommes-nous ?
+  target: "/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/persons"
+  file: content/fr/persons/_index.html
 - title: Livrables
   target: "/livrables-cepir-1/"
   kind: page
