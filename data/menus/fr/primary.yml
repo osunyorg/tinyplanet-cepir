@@ -2,31 +2,39 @@
 title: Menu principal
 items:
 - title: Qui sommes-nous ?
+  slug: qui-sommes-nous
   target: "/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Livrables
+  slug: livrables
   target: "/livrables-cepir-1/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/livrables-cepir-1"
   file: content/fr/pages/livrables-cepir-1/_index.html
 - title: Webinaires
+  slug: webinaires
   target: "/webinaires/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/webinaires"
   file: content/fr/pages/webinaires/_index.html
 - title: Le film CEPIR
+  slug: le-film-cepir
   target: "/making-of/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/making-of"
   file: content/fr/pages/making-of/_index.html
 
