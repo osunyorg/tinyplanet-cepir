@@ -4,8 +4,8 @@
 {{ if .IsHome }}
   {{- $breadcrumb = false -}}
 {{ end }}
-{{ if partial "GetTextFromHTML" .Params.summary }}
-  {{- $subtitle = partial "GetTextFromHTML" .Params.summary -}}
+{{ if .Params.summary }}
+  {{- $subtitle = .Params.summary -}}
 {{ end }}
 
 {{ partial "header/hero.html"
