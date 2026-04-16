@@ -3,7 +3,7 @@ title: Menu principal
 items:
 - title: Qui sommes-nous ?
   slug: qui-sommes-nous
-  target: "/"
+  target: "/partenaires/"
   kind: page
   new_tab: false
   children: []
