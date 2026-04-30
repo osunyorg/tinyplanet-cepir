@@ -33,6 +33,8 @@ RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} ^cepir\.info [NC]
 RewriteRule (.*) https://www.cepir.info/$1 [L,R=301]
 
+Options -Indexes
+
 RedirectMatch permanent "^/fr/organisations/idfa\-doc\-lab(/?)$" "/organisations/idfa-doc-lab/"
 RedirectMatch permanent "^/fr/equipe/equipe\-editoriale(/?)$" "/partenaires/equipe-editoriale/"
 RedirectMatch permanent "^/equipe\-de\-recherche(/?)$" "/partenaires/equipe-de-recherche/"
@@ -40,7 +42,7 @@ RedirectMatch permanent "^/organisations/ministere\-de\-la\-culture(/?)$" "/fr/o
 RedirectMatch permanent "^/organisations/ademe(/?)$" "/fr/organisations/ademe/"
 RedirectMatch permanent "^/fr/organisations/la\-rochelle\-universite(/?)$" "/organisations/la-rochelle-universite/"
 RedirectMatch permanent "^/publications/2023\-04\-24\-etat\-de\-lart(/?)$" "/publications/2023-04-23-etat-de-lart/"
-#RedirectMatch permanent "^/fr/partenaires(/?)$" "/partenaires/"
+RedirectMatch permanent "^/fr/partenaires(/?)$" "/partenaires/"
 RedirectMatch permanent "^/fr/organisations(/?)$" "/organisations/"
 RedirectMatch permanent "^/organisations/inria(/?)$" "/fr/organisations/inria/"
 RedirectMatch permanent "^/contexte/contexte\-risques\-et\-opportunites(/?)$" "/contexte/risques-et-opportunites/"
