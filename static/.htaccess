@@ -40,7 +40,7 @@ RedirectMatch permanent "^/organisations/ministere\-de\-la\-culture(/?)$" "/fr/o
 RedirectMatch permanent "^/organisations/ademe(/?)$" "/fr/organisations/ademe/"
 RedirectMatch permanent "^/fr/organisations/la\-rochelle\-universite(/?)$" "/organisations/la-rochelle-universite/"
 RedirectMatch permanent "^/publications/2023\-04\-24\-etat\-de\-lart(/?)$" "/publications/2023-04-23-etat-de-lart/"
-RedirectMatch permanent "^/fr/partenaires(/?)$" "/partenaires/"
+#RedirectMatch permanent "^/fr/partenaires(/?)$" "/partenaires/"
 RedirectMatch permanent "^/fr/organisations(/?)$" "/organisations/"
 RedirectMatch permanent "^/organisations/inria(/?)$" "/fr/organisations/inria/"
 RedirectMatch permanent "^/contexte/contexte\-risques\-et\-opportunites(/?)$" "/contexte/risques-et-opportunites/"
