@@ -1,15 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Qui sommes-nous ?
-  slug: qui-sommes-nous
-  target: "/partenaires/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
 - title: Livrables
   slug: livrables
   target: "/livrables-cepir-1/"
