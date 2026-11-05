@@ -22,10 +22,10 @@ jobs:
           hugo-version: '0.163.3'
           extended: true
 
-      - name: Setup Node
-        uses: actions/setup-node@v3
+      - name: Installation de Node
+        uses: actions/setup-node@v6
         with:
-          node-version: 'lts'
+          node-version: 'lts/*'
           cache: 'yarn'
 
       - name: Install JS dependencies
